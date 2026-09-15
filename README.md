@@ -136,11 +136,6 @@ Generative AI
 
 ---
 
-## 📌 Featured Projects
-
-> Check out my repositories for projects spanning **full-stack development, backend systems, cloud infrastructure and AI experimentation.**
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karmanprt&label=Profile%20Views&color=0e75b6&style=flat-square" />

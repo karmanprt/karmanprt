@@ -99,40 +99,6 @@ Generative AI
 
 ---
 
-## 🏗️ My Development Stack
-
-```text
-                    ┌─────────────────────┐
-                    │      Frontend       │
-                    │ React / Next.js     │
-                    │ TypeScript          │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │       Backend       │
-                    │ Node.js / NestJS    │
-                    │ REST APIs           │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────┴──────────┐
-                    ▼                     ▼
-             ┌─────────────┐       ┌─────────────┐
-             │  Databases  │       │    Redis    │
-             │ PostgreSQL  │       │   Caching   │
-             │ MongoDB     │       └─────────────┘
-             └─────────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    Cloud & DevOps   │
-                    │ AWS / Docker        │
-                    │ Kubernetes          │
-                    │ Terraform / Jenkins │
-                    └─────────────────────┘
-```
-
----
 
 ## 📈 GitHub Stats
 

@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayookarman">
+  <a href="https://linkedin.com/in/karmanprt">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/karmanprt">
